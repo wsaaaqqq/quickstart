@@ -1,21 +1,5 @@
 var relearn_searchindex = [
   {
-    "breadcrumb": "xht \u003e Hugoes \u003e 写作",
-    "content": "修改目录后需重新生成 content目录只是我们写作的目录，正式运行使用的是public目录下的文件夹。 修改content目录,hugo serve只是增量的生成，不会删除public下多余的内容。\nhugo serve --cleanDestinationDir serve： 可以编译content下的内容到public下（修改目录的话，只在public下增加新目录，废弃的目录名public下还有）\n–cleanDestinationDir： 每次重新生成时，先清空public下的内容",
-    "description": "修改目录后需重新生成 content目录只是我们写作的目录，正式运行使用的是public目录下的文件夹。 修改content目录,hugo serve只是增量的生成，不会删除public下多余的内容。\nhugo serve --cleanDestinationDir serve： 可以编译content下的内容到public下（修改目录的话，只在public下增加新目录，废弃的目录名public下还有）\n–cleanDestinationDir： 每次重新生成时，先清空public下的内容",
-    "tags": [],
-    "title": "修改目录",
-    "uri": "/quickstart/hugo/%E5%86%99%E4%BD%9C/%E7%9B%AE%E5%BD%95%E5%90%8D/index.html"
-  },
-  {
-    "breadcrumb": "xht",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "demo",
-    "uri": "/quickstart/000/index.html"
-  },
-  {
     "breadcrumb": "xht \u003e Hugoes",
     "content": "",
     "description": "",
@@ -25,11 +9,19 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "xht \u003e Hugoes",
-    "content": "Winget Winget is Microsoft’s official free and open-source package manager for Windows. To install the extended edition of Hugo:\nwinget install Hugo.Hugo.Extended To uninstall the extended edition of Hugo:\nwinget uninstall --name \"Hugo (Extended)\"",
-    "description": "Winget Winget is Microsoft’s official free and open-source package manager for Windows. To install the extended edition of Hugo:\nwinget install Hugo.Hugo.Extended To uninstall the extended edition of Hugo:\nwinget uninstall --name \"Hugo (Extended)\"",
+    "content": "Winget is Microsoft’s official free and open-source package manager for Windows.\nwinget install Hugo.Hugo.Extended winget uninstall --name \"Hugo (Extended)\"",
+    "description": "Winget is Microsoft’s official free and open-source package manager for Windows.\nwinget install Hugo.Hugo.Extended winget uninstall --name \"Hugo (Extended)\"",
     "tags": [],
     "title": "hugo安装",
     "uri": "/quickstart/hugo/hugo%E5%AE%89%E8%A3%85/index.html"
+  },
+  {
+    "breadcrumb": "xht \u003e Hugoes \u003e 写作",
+    "content": "修改目录后需重新生成 content目录只是我们写作的目录，正式运行使用的是public目录下的文件夹。 修改content目录,hugo serve只是增量的生成，不会删除public下多余的内容。\nhugo serve --cleanDestinationDir serve： 可以编译content下的内容到public下（修改目录的话，只在public下增加新目录，废弃的目录名public下还有）\n–cleanDestinationDir： 每次重新生成时，先清空public下的内容",
+    "description": "修改目录后需重新生成 content目录只是我们写作的目录，正式运行使用的是public目录下的文件夹。 修改content目录,hugo serve只是增量的生成，不会删除public下多余的内容。\nhugo serve --cleanDestinationDir serve： 可以编译content下的内容到public下（修改目录的话，只在public下增加新目录，废弃的目录名public下还有）\n–cleanDestinationDir： 每次重新生成时，先清空public下的内容",
+    "tags": [],
+    "title": "修改目录",
+    "uri": "/quickstart/hugo/%E5%86%99%E4%BD%9C/%E7%9B%AE%E5%BD%95%E5%90%8D/index.html"
   },
   {
     "breadcrumb": "xht \u003e Hugoes \u003e github部署",
@@ -54,6 +46,14 @@ var relearn_searchindex = [
     "tags": [],
     "title": "自动部署",
     "uri": "/quickstart/hugo/github%E9%83%A8%E7%BD%B2/%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2/index.html"
+  },
+  {
+    "breadcrumb": "xht",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "demo",
+    "uri": "/quickstart/000/index.html"
   },
   {
     "breadcrumb": "xht \u003e Hugoes",
