@@ -5,15 +5,15 @@ var relearn_searchindex = [
     "description": "log index",
     "tags": [],
     "title": "Log",
-    "uri": "/log/index.html"
+    "uri": "/quickstart/log/index.html"
   },
   {
     "breadcrumb": "My New Hugo Site \u003e Log",
-    "content": "111",
-    "description": "111",
+    "content": "",
+    "description": "",
     "tags": [],
     "title": "First Day",
-    "uri": "/log/first-day/index.html"
+    "uri": "/quickstart/log/hugo/index.html"
   },
   {
     "breadcrumb": "My New Hugo Site \u003e Log",
@@ -21,7 +21,7 @@ var relearn_searchindex = [
     "description": "222",
     "tags": [],
     "title": "Second Day",
-    "uri": "/log/second-day/index.html"
+    "uri": "/quickstart/log/second-day/index.html"
   },
   {
     "breadcrumb": "My New Hugo Site \u003e Log",
@@ -29,7 +29,7 @@ var relearn_searchindex = [
     "description": "333",
     "tags": [],
     "title": "Third Day",
-    "uri": "/log/third-day/third-day/index.html"
+    "uri": "/quickstart/log/third-day/third-day/index.html"
   },
   {
     "breadcrumb": "My New Hugo Site",
@@ -37,7 +37,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Categories",
-    "uri": "/categories/index.html"
+    "uri": "/quickstart/categories/index.html"
   },
   {
     "breadcrumb": "My New Hugo Site",
@@ -45,6 +45,6 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Tags",
-    "uri": "/tags/index.html"
+    "uri": "/quickstart/tags/index.html"
   }
 ]
