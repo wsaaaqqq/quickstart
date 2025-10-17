@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/quickstart/'
-languageCode = 'en-us'
-title = 'ht666'
+languageCode = 'zh-cn'
+title = 'xht'
 #theme = 'hugo-clarity'
 theme = 'hugo-theme-relearn'
 [params]

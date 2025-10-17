@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>模板 :: ht666</title>
-    <link>http://localhost:1313/quickstart/hugo/%E5%86%99%E4%BD%9C/%E6%A8%A1%E6%9D%BF/index.html</link>
+    <title>模板 :: xht</title>
+    <link>https://example.org/quickstart/hugo/%E5%86%99%E4%BD%9C/%E6%A8%A1%E6%9D%BF/index.html</link>
     <description>项目根目录执行下载模板： git submodule add https://github.com/chipzoller/hugo-clarity themes/hugo-clarity /hugo.toml启用下载的模板: theme = &#39;hugo-theme-relearn&#39;</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/quickstart/hugo/%E5%86%99%E4%BD%9C/%E6%A8%A1%E6%9D%BF/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/quickstart/hugo/%E5%86%99%E4%BD%9C/%E6%A8%A1%E6%9D%BF/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
