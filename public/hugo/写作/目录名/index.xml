@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>修改目录 :: ht666</title>
+    <link>http://localhost:1313/quickstart/hugo/%E5%86%99%E4%BD%9C/%E7%9B%AE%E5%BD%95%E5%90%8D/index.html</link>
+    <description>修改目录后需重新生成 content目录只是我们写作的目录，正式运行使用的是public目录下的文件夹。 修改content目录,hugo serve只是增量的生成，不会删除public下多余的内容。&#xA;hugo serve --cleanDestinationDir serve： 可以编译content下的内容到public下（修改目录的话，只在public下增加新目录，废弃的目录名public下还有）&#xA;–cleanDestinationDir： 每次重新生成时，先清空public下的内容</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/quickstart/hugo/%E5%86%99%E4%BD%9C/%E7%9B%AE%E5%BD%95%E5%90%8D/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
