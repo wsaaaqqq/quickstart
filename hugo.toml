@@ -1,6 +1,7 @@
 baseURL = 'https://example.org/quickstart/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'ht666'
+#theme = 'hugo-clarity'
 theme = 'hugo-theme-relearn'
 [params]
 themeVariantAuto = ['learn', 'neon']

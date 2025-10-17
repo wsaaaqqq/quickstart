@@ -3,4 +3,8 @@ title = ""
 type = "home"
 +++
 
-111
+git： https://github.com/wsaaaqqq/quickstart.git
+
+git page: https://wsaaaqqq.github.io/quickstart
+
+git page deploy: https://github.com/wsaaaqqq/quickstart/actions

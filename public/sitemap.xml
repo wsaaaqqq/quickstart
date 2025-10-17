@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/quickstart/log/index.html</loc>
-    <lastmod>2025-10-13T11:27:36+08:00</lastmod>
+    <loc>http://localhost:1313/quickstart/hugo/%E5%86%99%E4%BD%9C/%E7%9B%AE%E5%BD%95%E5%90%8D/index.html</loc>
+    <lastmod>2025-10-17T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/quickstart/log/hugo/index.html</loc>
-    <lastmod>2025-10-11T11:27:35+08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/quickstart/log/second-day/index.html</loc>
+    <loc>http://localhost:1313/quickstart/hugo/%E5%86%99%E4%BD%9C/index.html</loc>
     <lastmod>2025-10-12T11:27:36+08:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/quickstart/log/third-day/third-day/index.html</loc>
-    <lastmod>2025-10-13T11:27:36+08:00</lastmod>
+    <loc>http://localhost:1313/quickstart/hugo/%E5%86%99%E4%BD%9C/%E6%A8%A1%E6%9D%BF/index.html</loc>
+    <lastmod>2025-10-12T11:27:36+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/quickstart/hugo/index.html</loc>
+    <lastmod>2025-10-17T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/quickstart/categories/index.html</loc>
