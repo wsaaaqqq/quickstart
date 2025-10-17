@@ -1,5 +1,5 @@
 +++
-date = '2025-10-12T11:27:36+08:00'
+date = '2025-10-17'
 draft = false
 title = '自动部署'
 weight = 1

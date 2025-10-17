@@ -8,12 +8,28 @@ var relearn_searchindex = [
     "uri": "/quickstart/hugo/%E5%86%99%E4%BD%9C/%E7%9B%AE%E5%BD%95%E5%90%8D/index.html"
   },
   {
+    "breadcrumb": "xht",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "demo",
+    "uri": "/quickstart/000/index.html"
+  },
+  {
     "breadcrumb": "xht \u003e Hugoes",
     "content": "",
     "description": "",
     "tags": [],
     "title": "github部署",
     "uri": "/quickstart/hugo/github%E9%83%A8%E7%BD%B2/index.html"
+  },
+  {
+    "breadcrumb": "xht \u003e Hugoes",
+    "content": "Winget Winget is Microsoft’s official free and open-source package manager for Windows. To install the extended edition of Hugo:\nwinget install Hugo.Hugo.Extended To uninstall the extended edition of Hugo:\nwinget uninstall --name \"Hugo (Extended)\"",
+    "description": "Winget Winget is Microsoft’s official free and open-source package manager for Windows. To install the extended edition of Hugo:\nwinget install Hugo.Hugo.Extended To uninstall the extended edition of Hugo:\nwinget uninstall --name \"Hugo (Extended)\"",
+    "tags": [],
+    "title": "hugo安装",
+    "uri": "/quickstart/hugo/hugo%E5%AE%89%E8%A3%85/index.html"
   },
   {
     "breadcrumb": "xht \u003e Hugoes \u003e github部署",

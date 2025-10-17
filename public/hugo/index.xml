@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugoes :: xht</title>
-    <link>https://example.org/quickstart/hugo/index.html</link>
+    <link>http://localhost:1313/quickstart/hugo/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 12 Oct 2025 11:27:36 +0800</lastBuildDate>
-    <atom:link href="https://example.org/quickstart/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/quickstart/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>github部署</title>
-      <link>https://example.org/quickstart/hugo/github%E9%83%A8%E7%BD%B2/index.html</link>
-      <pubDate>Sun, 12 Oct 2025 11:27:36 +0800</pubDate>
-      <guid>https://example.org/quickstart/hugo/github%E9%83%A8%E7%BD%B2/index.html</guid>
+      <link>http://localhost:1313/quickstart/hugo/github%E9%83%A8%E7%BD%B2/index.html</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/hugo/github%E9%83%A8%E7%BD%B2/index.html</guid>
       <description></description>
     </item>
     <item>
+      <title>hugo安装</title>
+      <link>http://localhost:1313/quickstart/hugo/hugo%E5%AE%89%E8%A3%85/index.html</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/hugo/hugo%E5%AE%89%E8%A3%85/index.html</guid>
+      <description>Winget is Microsoft’s official free and open-source package manager for Windows.&#xA;winget install Hugo.Hugo.Extended winget uninstall --name &#34;Hugo (Extended)&#34;</description>
+    </item>
+    <item>
       <title>写作</title>
-      <link>https://example.org/quickstart/hugo/%E5%86%99%E4%BD%9C/index.html</link>
-      <pubDate>Sun, 12 Oct 2025 11:27:36 +0800</pubDate>
-      <guid>https://example.org/quickstart/hugo/%E5%86%99%E4%BD%9C/index.html</guid>
+      <link>http://localhost:1313/quickstart/hugo/%E5%86%99%E4%BD%9C/index.html</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/hugo/%E5%86%99%E4%BD%9C/index.html</guid>
       <description></description>
     </item>
   </channel>

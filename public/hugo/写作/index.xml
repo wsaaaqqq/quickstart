@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>写作 :: xht</title>
-    <link>https://example.org/quickstart/hugo/%E5%86%99%E4%BD%9C/index.html</link>
+    <link>http://localhost:1313/quickstart/hugo/%E5%86%99%E4%BD%9C/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 17 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/quickstart/hugo/%E5%86%99%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/quickstart/hugo/%E5%86%99%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>修改目录</title>
-      <link>https://example.org/quickstart/hugo/%E5%86%99%E4%BD%9C/%E7%9B%AE%E5%BD%95%E5%90%8D/index.html</link>
+      <link>http://localhost:1313/quickstart/hugo/%E5%86%99%E4%BD%9C/%E7%9B%AE%E5%BD%95%E5%90%8D/index.html</link>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/quickstart/hugo/%E5%86%99%E4%BD%9C/%E7%9B%AE%E5%BD%95%E5%90%8D/index.html</guid>
+      <guid>http://localhost:1313/quickstart/hugo/%E5%86%99%E4%BD%9C/%E7%9B%AE%E5%BD%95%E5%90%8D/index.html</guid>
       <description>修改目录后需重新生成 content目录只是我们写作的目录，正式运行使用的是public目录下的文件夹。 修改content目录,hugo serve只是增量的生成，不会删除public下多余的内容。&#xA;hugo serve --cleanDestinationDir serve： 可以编译content下的内容到public下（修改目录的话，只在public下增加新目录，废弃的目录名public下还有）&#xA;–cleanDestinationDir： 每次重新生成时，先清空public下的内容</description>
     </item>
     <item>
       <title>模板</title>
-      <link>https://example.org/quickstart/hugo/%E5%86%99%E4%BD%9C/%E6%A8%A1%E6%9D%BF/index.html</link>
-      <pubDate>Sun, 12 Oct 2025 11:27:36 +0800</pubDate>
-      <guid>https://example.org/quickstart/hugo/%E5%86%99%E4%BD%9C/%E6%A8%A1%E6%9D%BF/index.html</guid>
+      <link>http://localhost:1313/quickstart/hugo/%E5%86%99%E4%BD%9C/%E6%A8%A1%E6%9D%BF/index.html</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/hugo/%E5%86%99%E4%BD%9C/%E6%A8%A1%E6%9D%BF/index.html</guid>
       <description>项目根目录执行下载模板： git submodule add https://github.com/chipzoller/hugo-clarity themes/hugo-clarity /hugo.toml启用下载的模板: theme = &#39;hugo-theme-relearn&#39;</description>
     </item>
   </channel>
